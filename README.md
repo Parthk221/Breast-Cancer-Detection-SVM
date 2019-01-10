@@ -1,6 +1,6 @@
 # To Detect wether the type of Breast Cancer with SVM (Support Vector Machine) 
 
-##Project Task
+## Project Task
 
 In this study, my task is to classify tumors into malignant (cancerous) or benign (non-cancerous) using features obtained from several cell images.
 
